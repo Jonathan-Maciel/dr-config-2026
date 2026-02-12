@@ -1,7 +1,7 @@
 
 #
 # Configuration for staging environment 
-# force 3/11 sdf
+# force 3/11 sd
 #  
 version: 1.0
 app:
